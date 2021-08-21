@@ -1,0 +1,19 @@
+{
+    "people":[
+        {
+            "name":"Pallavi",
+            "age": 48
+        },
+        {
+        "name":"Sandeep",
+        "age": 50
+        },
+       { "name":"Meena",
+        "age": 73
+       },
+       { "name":"Arun",
+        "age": 78
+       }
+       
+    ]
+}
